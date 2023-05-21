@@ -1,7 +1,7 @@
 let population = 25;
 let mutationParameter = 4e-2;
 let mutationChance = 1;
-let chooseFittest = 0.5;
+let chooseFittest = 1;
 let randomInit = 0.2;
 
 class Evolution{
