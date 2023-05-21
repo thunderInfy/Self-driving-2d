@@ -1,4 +1,4 @@
-const maxPower = 0.075;
+const maxPower = 0.05;
 const maxReverse = 0.0375;
 const powerFactor = 0.001;
 const reverseFactor = 0.0005;
